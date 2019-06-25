@@ -5,4 +5,6 @@
 
 [Kaggle이란?](https://en.wikipedia.org/wiki/Kaggle)
 
-[Kaggle 시작하기](https://brunch.co.kr/@minwoo/19)
+[Kaggle 시작하기](https://brunch.co.kr/@minwoo/19)  
+
+[머신러닝과 딥러닝 BASIC HKUST 김성훈 교수](https://m.edwith.org/others26/lectures/9829)
